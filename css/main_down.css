@@ -314,7 +314,7 @@ a, a:hover, a:active, a:visited{
     .seccion-plantilla{
       height: 40rem;
       flex-flow: row nowrap;
-      margin-top: 100px;
+      margin-top: 6.3rem;
     }
     .imgPlantillaMobile{
       width: 36rem;
