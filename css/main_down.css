@@ -303,6 +303,7 @@ a, a:hover, a:active, a:visited{
   align-items: center;
   justify-content: space-evenly;
   row-gap: 3rem;
+  margin-top: 6.3rem;
 }
 .imgPlantillaMobile{
   width: 85%;
@@ -314,7 +315,6 @@ a, a:hover, a:active, a:visited{
     .seccion-plantilla{
       height: 40rem;
       flex-flow: row nowrap;
-      margin-top: 6.3rem;
     }
     .imgPlantillaMobile{
       width: 36rem;
