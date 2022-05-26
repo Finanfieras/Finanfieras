@@ -674,6 +674,12 @@ form .inputsContainers {
   
 }
 
+/* CUPONES */
+
+  @media (max-width: 768px){
+    .ticupones{
+      margin-top: 3rem;
+    }
   
 
 
